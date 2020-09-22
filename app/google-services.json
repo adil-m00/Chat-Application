@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "842366341214",
+    "firebase_url": "https://uberclone-342e3.firebaseio.com",
+    "project_id": "uberclone-342e3",
+    "storage_bucket": "uberclone-342e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842366341214:android:044f2487891352cd",
+        "android_client_info": {
+          "package_name": "com.example.Anum.dietconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYazOFx79ZRW1ZM4YxRDbIT2Cdw01_SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842366341214:android:e0b7a766e96f63d5",
+        "android_client_info": {
+          "package_name": "com.example.adil.dietconsultant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYazOFx79ZRW1ZM4YxRDbIT2Cdw01_SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842366341214:android:b839d5ca28d5dc7b",
+        "android_client_info": {
+          "package_name": "com.example.adil.dietconsultantadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYazOFx79ZRW1ZM4YxRDbIT2Cdw01_SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842366341214:android:887e0f64c0a73903",
+        "android_client_info": {
+          "package_name": "com.example.adil.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYazOFx79ZRW1ZM4YxRDbIT2Cdw01_SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842366341214:android:b2d8e4ddc0f7de96e724cf",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842366341214-g822e7g3ha6uj25bt3to3nettu5gghq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_application",
+            "certificate_hash": "ae275293a5c3c55938d61283e0662a727095da9f"
+          }
+        },
+        {
+          "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYYazOFx79ZRW1ZM4YxRDbIT2Cdw01_SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842366341214-7486fe2ia8miqjqfbee5rlbv1g6qtggi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
